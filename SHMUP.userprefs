@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\AUGMENTED_REALITY_UNITY\PROJECT\Assets\Projects\Crosshair\Scripts\GameManager.cs">
+    <Files>
+      <File FileName="..\..\AUGMENTED_REALITY_UNITY\PROJECT\Assets\Projects\Crosshair\Scripts\Invader.cs" Line="37" Column="76" />
+      <File FileName="..\..\AUGMENTED_REALITY_UNITY\PROJECT\Assets\Projects\Crosshair\Scripts\GameManager.cs" Line="127" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
